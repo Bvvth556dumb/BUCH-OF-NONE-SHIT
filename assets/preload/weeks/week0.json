@@ -1,0 +1,66 @@
+{
+	"songs": [
+		[
+			"Common-Sense",
+			"nonsense",
+			[
+				26,
+				173,
+				253
+			]
+		],
+		[
+			"Highlights",
+			"nonsense",
+			[
+				26,
+				173,
+				253
+			]
+		],
+		[
+			"Context",
+			"nonsense",
+			[
+				26,
+				173,
+				253
+			]
+		],
+		[
+			"Nonsense",
+			"nonsenseGod",
+			[
+				26,
+				173,
+				253
+			]
+		],
+		[
+			"Nonsensical",
+			"nonsenseGod",
+			[
+				26,
+				173,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "s",
+	"weekCharacters": [
+		"nonsense",
+		"bf",
+		"gf"
+	],
+	"storyName": "Nonsense oml",
+	"weekName": "week0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
